@@ -1,0 +1,1 @@
+# Wardrobe Planner\n\nMinimal personal collection and outfit planning app.\n\n## Build APK\n\nGitHub Actions runs on pushes to `main` or manually from Actions → Build Android APK → Run workflow. Download the `wardrobe-planner-apk` artifact from the run.\n\nFeatures: local item collection, flexible categories, photo selection, date planning, collections and wishlist.\n
